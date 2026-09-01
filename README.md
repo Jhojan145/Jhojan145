@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hola Mi nombre es Jhojan!
+ Soy desarrollador **Frontend y Backend**.
 
-<!--
-**Jhojan145/Jhojan145** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Me gusta desarrollar aplicaciones web y aprender nuevas tecnologías para mejorar mis habilidades como desarrollador.
+ 
+---
+ ## Github status
+![GitHub Streak](https://streak-stats.demolab.com?user=Jhojan145&theme=tokyonight)
+---
 
-Here are some ideas to get you started:
+##  Herramientas y tecnologías
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Frontend: React, JavaScript, jQuery, Bootstrap, Tailwind CSS
+- Backend: Node.js, Express.js, PHP
+- Bases de datos: MySQL, SQL Server
+- Lenguajes: JavaScript, PHP, C#
+- Herramientas: Git, GitHub, Vite, Composer
+---
+
