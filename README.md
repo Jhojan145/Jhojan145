@@ -16,5 +16,3 @@
 - Lenguajes: JavaScript, PHP, C#
 - Herramientas: Git, GitHub, Vite, Composer
 ---
-
-    ## Proyectos
