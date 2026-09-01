@@ -4,7 +4,7 @@
  Me gusta desarrollar aplicaciones web y aprender nuevas tecnologías para mejorar mis habilidades como desarrollador.
  
 ---
- ## Github status
+ ## Estadísticas de GitHub
 ![GitHub Streak](https://streak-stats.demolab.com?user=Jhojan145&theme=tokyonight)
 ---
 
